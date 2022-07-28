@@ -18,3 +18,7 @@ body {
     background-color: white;
     color: rgba(40, 155, 222, 1);
 }
+
+.company-img img {
+    width: 130px;
+}
