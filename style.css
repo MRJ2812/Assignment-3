@@ -8,3 +8,13 @@ body {
 .cover-img {
     filter: brightness(50%)
 }
+
+
+.course-img img {
+    width: 100%;
+}
+
+.reg-button {
+    background-color: white;
+    color: rgba(40, 155, 222, 1);
+}
